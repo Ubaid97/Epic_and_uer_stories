@@ -1,4 +1,5 @@
 # Epic and User stories
+
 ## Epic stories
 -  An epic story is usually one big piece of product functionality which 
 can be broken down into smaller stories
@@ -14,3 +15,13 @@ email).
 - Use cases will describe the sequence of steps the agents will need to 
 take, and how the system will need behave in response, in order to meet 
 the need in the user story  
+
+## How these relate to Agile and Scrum
+- In an Agile environment, scrum is a very useful framework to adopt, 
+and scrum will split the workload into sprints. each sprint will have 
+certain functionalities to be implemented as their goal.
+- Epic stories consist of quite large and complex functionalities which 
+usually cannot be completed in a single sprint
+- Instead, epic stories are broken down into smaller user stories, which 
+can be completed in a single sprint.
+- Use cases will then outline what these functionalities consist of
